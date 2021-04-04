@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00207ecb-61e3-4f92-b466-f913b5826f7e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/covid19/account/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid19/templates/AdPosting/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid19/templates/AdPosting/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid19/templates/AdPosting/postAd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid19/templates/Finalized_model.sav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid19/templates/accounts/activation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid19/templates/accounts/changeEmail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid19/templates/accounts/myAccount.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid19/templates/accounts/signin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid19/templates/accounts/signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid19/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid19/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid19/templates/location.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid19/templates/prediction/predict.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qi3Q5NKCPmmd96s7rhFAdLB8Lt" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/covid19" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\github uploads\Hackthon\Covid19Hackathon\covid19\templates" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\github uploads\Hackthon\Covid19Hackathon\covid19" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00207ecb-61e3-4f92-b466-f913b5826f7e" name="Default Changelist" comment="" />
+      <created>1617548563564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617548563564</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
